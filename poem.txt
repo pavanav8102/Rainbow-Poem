@@ -1,6 +1,7 @@
 The Rainbow
 
 purple
+Green
 pink
 orange
 This is the colour of rainbow
